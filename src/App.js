@@ -5,8 +5,7 @@ import NavBar from './component/NavBar';
 import AboutUs from './pages/about';
 import Home from './pages/home';
 import {
-  BrowserRouter, Route, Switch, Redirect, useHistory
-} from 'react-router-dom';
+  BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
 
 function App() {
   return (

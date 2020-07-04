@@ -1,8 +1,5 @@
 import React from 'react';
-import { Navbar, NavDropdown, Nav } from 'react-bootstrap';
-import {
-    BrowserRouter, Route, Switch, Redirect, useHistory 
-  } from 'react-router-dom';
+import {useHistory} from 'react-router-dom';
 
 function Home() {
 
